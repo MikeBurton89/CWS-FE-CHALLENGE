@@ -1,0 +1,7 @@
+.toast {
+  border-radius: 8px;
+  height: 40px;
+  background-color: rgba(51, 51, 51, 0.9);
+  font: Roboto-regular 16px #ffffff;
+  shadow: 0px 1px 2px 0 rgba(0, 0, 0, 0.1), 0 1px 8px 0 rgba(0, 0, 0, 0.1);
+}
